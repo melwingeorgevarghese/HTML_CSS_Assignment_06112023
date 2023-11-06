@@ -1,0 +1,32 @@
+body{
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.section{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 30px;
+    
+}
+button{
+    
+    width: 100px;
+    border-radius: 30px;
+    
+    height: 40px;
+}
+.left{
+    box-shadow: 4px 3px 8px 1px #969696;
+  	-webkit-box-shadow: 4px 3px 8px 1px #969696;
+    
+    flex: 1;
+    border-radius: 10px;
+    margin: 30px;
+  
+
+}
+
+
