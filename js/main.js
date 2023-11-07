@@ -6,6 +6,7 @@ const colorarray = [
   "pink",
   "purple",
   "orange",
+  "skyblue",
 ];
 fetch("https://api.msigma.in/btech/v2/branches/")
   .then((response) => response.json())
